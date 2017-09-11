@@ -203,7 +203,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
-    background-color: #41b866;
+    background-color: #f1efea;
 }
 
 .service-item {
@@ -212,13 +212,9 @@ hr.small {
 .logo {
   height: 128px;
   width: 128px;
-  width: inherit;
   z-index: 9991;
 }
-.ruby {
-  background-image: url(../img/ruby.jpg);
-  background-position: center center;
-}
+
 
 
 /* Callout */
